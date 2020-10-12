@@ -1,4 +1,4 @@
-
+-- Tables for cohorts and students
 
 CREATE TABLE cohorts (
   id SERIAL PRIMARY KEY NOT NULL,
